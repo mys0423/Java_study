@@ -1,0 +1,15 @@
+package consoleTest;
+
+// print만 사용해서
+// 점심메뉴 3개 작성
+// ex)
+// 점심 메뉴:
+// 1. 김치찌개
+// 2. 치킨공식
+// 3. 텀블러비어
+public class ConsoleTask {
+	public static void main(String[] args) {
+		System.out.print("점심 메뉴: \n1. 김치찌개\n2. 치킨공식\n3. 텀블러비어\n");
+//		syso -> 자동완성		
+	}
+}
