@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="methodTask.MethodTask2"/>
     <fullyQualifiedTypeName name="methodTask.MethodTask3"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="methodTask.MethodTask5"/>
     <fullyQualifiedTypeName name="classTest.StaticTest"/>
     <fullyQualifiedTypeName name="classTask.Company"/>
@@ -28,6 +27,26 @@
     <fullyQualifiedTypeName name="access1.Access1"/>
     <fullyQualifiedTypeName name="inheritanceTest.Animal2"/>
     <fullyQualifiedTypeName name="inheritanceTask.Phone2G"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="inheritanceTask.Phone"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="classTest.SuperCar"/>
+    <fullyQualifiedTypeName name="classTask1.Animation"/>
+    <fullyQualifiedTypeName name="java.lang.Deprecated"/>
+    <fullyQualifiedTypeName name="classTask1.Netflix"/>
+    <fullyQualifiedTypeName name="classTask2.Monster"/>
+    <fullyQualifiedTypeName name="classTask2.Fairy"/>
+    <fullyQualifiedTypeName name="classTask2.Human"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="classTask2.Character"/>
+    <fullyQualifiedTypeName name="classTask3.Harbivore"/>
+    <fullyQualifiedTypeName name="classTask3.Animal"/>
+    <fullyQualifiedTypeName name="classTask3.AnimalLab"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="classTask3.Herbivore"/>
+    <fullyQualifiedTypeName name="classTask3.Carnivore"/>
+    <fullyQualifiedTypeName name="classTask3.Omivore"/>
+    <fullyQualifiedTypeName name="classTask4.Member"/>
+    <fullyQualifiedTypeName name="classTask4.Product"/>
+    <fullyQualifiedTypeName name="classTask4.MarketNonMember"/>
+    <fullyQualifiedTypeName name="classTask4.MarketMember"/>
 </qualifiedTypeNameHistroy>
