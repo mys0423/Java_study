@@ -41,7 +41,6 @@
     <fullyQualifiedTypeName name="classTask3.Harbivore"/>
     <fullyQualifiedTypeName name="classTask3.Animal"/>
     <fullyQualifiedTypeName name="classTask3.AnimalLab"/>
-    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
     <fullyQualifiedTypeName name="classTask3.Herbivore"/>
     <fullyQualifiedTypeName name="classTask3.Carnivore"/>
     <fullyQualifiedTypeName name="classTask3.Omivore"/>
@@ -49,4 +48,11 @@
     <fullyQualifiedTypeName name="classTask4.Product"/>
     <fullyQualifiedTypeName name="classTask4.MarketNonMember"/>
     <fullyQualifiedTypeName name="classTask4.MarketMember"/>
+    <fullyQualifiedTypeName name="abstractTest.Electronics"/>
+    <fullyQualifiedTypeName name="interfaceTest.PetAdapter"/>
+    <fullyQualifiedTypeName name="interfaceTask.HumanAdapter"/>
+    <fullyQualifiedTypeName name="interfaceTask.Student"/>
+    <fullyQualifiedTypeName name="interfaceTask1.HumanAction"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="interfaceTask1.HumanActionAdapter"/>
 </qualifiedTypeNameHistroy>

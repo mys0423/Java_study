@@ -1,4 +1,4 @@
-package forTast;
+package forTask;
 
 import java.util.Scanner;
 

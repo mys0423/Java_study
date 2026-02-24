@@ -1,4 +1,4 @@
-package isTask;
+package ifTask;
 
 import java.util.Scanner;
 
