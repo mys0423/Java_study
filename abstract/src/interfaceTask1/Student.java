@@ -10,6 +10,7 @@ public class Student extends HumanActionAdapter {
 	public void eat() {
 		System.out.println("학생의 먹기");
 	}
+	
 	@Override
 	public void goSchool() {
 		System.out.println("등교하기");
