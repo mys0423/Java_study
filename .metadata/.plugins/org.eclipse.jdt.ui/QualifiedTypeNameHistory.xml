@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="classTask.Student"/>
-    <fullyQualifiedTypeName name="classTask.SuperCar"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="classTask.playerA"/>
-    <fullyQualifiedTypeName name="classTask.PlayerA"/>
-    <fullyQualifiedTypeName name="inheritanceTask.PersonTask"/>
-    <fullyQualifiedTypeName name="inheritanceTask.StudentTask"/>
-    <fullyQualifiedTypeName name="inheritanceTask.EmployeeTask"/>
-    <fullyQualifiedTypeName name="access2.Access3"/>
-    <fullyQualifiedTypeName name="access1.Access1"/>
-    <fullyQualifiedTypeName name="inheritanceTest.Animal2"/>
-    <fullyQualifiedTypeName name="inheritanceTask.Phone2G"/>
-    <fullyQualifiedTypeName name="inheritanceTask.Phone"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="classTest.SuperCar"/>
-    <fullyQualifiedTypeName name="classTask1.Animation"/>
-    <fullyQualifiedTypeName name="java.lang.Deprecated"/>
     <fullyQualifiedTypeName name="classTask1.Netflix"/>
     <fullyQualifiedTypeName name="classTask2.Monster"/>
     <fullyQualifiedTypeName name="classTask2.Fairy"/>
@@ -60,4 +43,21 @@
     <fullyQualifiedTypeName name="lambdaTask4.MakeCalculation"/>
     <fullyQualifiedTypeName name="lambdaTask4.ArraySort"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="lambdaTask3.Decode"/>
+    <fullyQualifiedTypeName name="apiTest.Calc"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="objectTest.ObjectTest"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="exceptionTest.BadWordException"/>
+    <fullyQualifiedTypeName name="exceptionTest.ExceptionTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="arrayList.task.DBConnecter"/>
+    <fullyQualifiedTypeName name="arrayList.task.User"/>
+    <fullyQualifiedTypeName name="arrayList.task.UserField"/>
 </qualifiedTypeNameHistroy>
