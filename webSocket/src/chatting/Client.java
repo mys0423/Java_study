@@ -11,7 +11,7 @@ import java.net.Socket;
 public class Client {
    public static void main(String[] args) {
       String name = "student1";
-      String ip = "192.168.5.254";
+      String ip = "192.168.161.224";
       int port = 7777;
       
       try(

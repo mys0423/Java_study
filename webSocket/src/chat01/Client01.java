@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Client01 {
 	public static void main(String[] args) {
 //		ip, port
-		String serverIp = "192.168.161.224";
+		String serverIp = "192.168.0.6";
 		int port = 1100;
 		Scanner sc = new Scanner(System.in);
 		

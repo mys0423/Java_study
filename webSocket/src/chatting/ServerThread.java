@@ -22,7 +22,7 @@ public class ServerThread implements Runnable{
 		this.outputList = outputList;
 		
 		try {
-			output = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()));
+			output = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()), true);
 			input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 			
 			synchronized (outputList) {
@@ -46,7 +46,7 @@ public class ServerThread implements Runnable{
 				
 				synchronized (outputList) {
 					for(PrintWriter out : outputList) {
-						out.print(line);
+						out.println(line);
 					}
 				}
 			}
