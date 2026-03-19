@@ -56,8 +56,8 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="vo.MemberVO"/>
-    <fullyQualifiedTypeName name="dao.MemberDAO"/>
-    <fullyQualifiedTypeName name="dao.DBConnecter"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="dao.MemberDAO"/>
+    <fullyQualifiedTypeName name="vo.MemberVO"/>
+    <fullyQualifiedTypeName name="dao.DBConnecter"/>
 </qualifiedTypeNameHistroy>
